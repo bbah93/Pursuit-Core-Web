@@ -16,15 +16,6 @@ Testing your JavaScript code with Jest!
 
 ---
 
-## Outline
-* What is testing
-  * Why do it
-
-* Types of testing
-  * unit
-  * integration
-  * E2E
-
 ## What is testing
 
 Testing is the practice of writing code to verify that your other code is doing what you think it is.
